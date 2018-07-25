@@ -1,6 +1,6 @@
 PCB FILES
 
-Ball & Beam control (3D prints) by Erik Santamaría is licensed under a Creative Commons Attribution 4.0 Internacional License.
+Power-meter-shield-for-Arduino (3D prints) by Erik Santamaría is licensed under a Creative Commons Attribution 4.0 Internacional License.
 
 ARDUINO CODE
 
